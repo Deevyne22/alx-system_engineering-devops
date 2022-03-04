@@ -1,0 +1,4 @@
+#h
+#!/bin/bash
+ls
+ctrl x, ctrl s
